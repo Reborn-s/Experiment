@@ -1,0 +1,11 @@
+@ignore
+Copyright (C) 1988-2015 Free Software Foundation, Inc.
+@end ignore
+
+@set LASTCHANGE Fri Oct  2 07:15:33 EDT 2015
+
+@set EDITION 4.4
+@set VERSION 4.4
+
+@set UPDATED 2 October 2015
+@set UPDATED-MONTH October 2015
